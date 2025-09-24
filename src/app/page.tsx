@@ -4,9 +4,6 @@ export default function HomePage() {
     <>
       <section id="hero">
         <Hero />
-      <section id="features">
-        <Features />
-      </section>
       </section>
       <section id="pricing">
       <section id="contact">
@@ -17,4 +14,3 @@ export default function HomePage() {
   )
 }
 import Contact from '@/components/sections/home/Contact'
-import Features from '@/components/sections/home/Features'
