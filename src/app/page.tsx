@@ -9,7 +9,11 @@ export default function HomePage() {
       </section>
       <section id="pricing">
         <Pricing />
+      <section id="contact">
+        <Contact />
+      </section>
       </section>
     </>
   )
 }
+import Contact from '@/components/sections/home/Contact'

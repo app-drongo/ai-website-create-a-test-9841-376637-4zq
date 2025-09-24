@@ -29,6 +29,10 @@ export default function Navigation() {
   {
     name: "Pricing",
     href: "#pricing"
+  },
+  {
+    name: "Contact",
+    href: "#contact"
   }
 ];
 
